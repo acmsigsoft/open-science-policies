@@ -8,7 +8,7 @@ The rationale and background for the content of the policies are available here:
 
 #### Instructions
 
-We recommend each venue to have a role for open science (e.g., the open science chair or a program committee chair) to be responsible for the policies. The responsible person should act as a bridge between persons with editorial roles (e.g., program committee chairs, associate editors) and authors of papers. The responsible person should take care of uploading the policies to the venue website and network with the venue organization for the useful application of the policies. Examples include: ensure proper visibility of the policies in Call for Papers; collaborate with research track chairs and artifact evaluation chairs to maximize openness and avoiding to reinvent the wheel; ensure that program committee members are informed about the policies; answer questions of authors and reviewers.
+We recommend each venue to have a role for open science (e.g., the open science chair or a program committee chair) to be responsible for the policies. The responsible person should act as a bridge between persons with editorial roles (e.g., program committee chairs, associate editors) and authors of papers. The responsible person should take care of uploading the policies to the venue website and network with the venue organization for the useful application of the policies. Examples include: ensure proper visibility of the policies in Call for Papers; collaborate with research track chairs and artifact evaluation chairs to maximize openness and avoiding reinventing the wheel; ensure that program committee members are informed about the policies; answer questions of authors and reviewers.
 
 The text of the policies starts from [OPEN_SCIENCE_POLICIES] and ends and at [/OPEN_SCIENCE_POLICIES].
 
@@ -51,11 +51,11 @@ provided that there are no ethical, legal, technical, economic, or sensible barr
 Fostering artifacts as open data and open source should be done as:
 
 - Archived on preserved digital repositories such as [zenodo.org](https://zenodo.org), [figshare.com](https://figshare.com), [www.softwareheritage.org](https://www.softwareheritage.org), [osf.io](https://osf.io), or institutional repositories.
-	- GitHub, GitLab, and similar services for version control systems do not offer properly archived and preserved data.
-	- Personal or institutional websites, consumer cloud storage such as Dropbox, or services such as Academia.edu and Researchgate.net do not provide properly archived and preserved data.
+- GitHub, GitLab, and similar services for version control systems do not offer properly archived and preserved data.
+- Personal or institutional websites, consumer cloud storage such as Dropbox, or services such as Academia.edu and Researchgate.net do not provide properly archived and preserved data.
 - Released under a proper open data license such as the [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) dedication or the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license when publishing the data.
-	- Software can be released under an [open source license](https://opensource.org/licenses).
-	- Different open licenses, if mandated by institutions or regulations, are also permitted.
+- Software can be released under an [open source license](https://opensource.org/licenses).
+- Different open licenses, if mandated by institutions or regulations, are also permitted.
 
 We encourage authors to make artifacts available upon submission (either privately or publicly) and upon acceptance (publicly).
 
@@ -65,7 +65,7 @@ We ask authors to provide a supporting statement on the data availability (or la
 
 Authors who cannot disclose data for the reasons stated in the principles of the policies should provide a short statement in their submitted papers in a section named _Data Availability_ after the _Conclusion_ section.
 
-Please note that the success of the open science initiative depends on the willingness (and possibilities) of authors to disclose their data and that all submissions will undergo the same review process independent of whether or not they disclose their analysis code or data.
+Please note that the success of the open science initiative depends on the willingness (and possibilities) of authors to disclose their data and that all submissions will undergo the same review process independent of whether they disclose their analysis code or data.
 
 ###### HOWTOs
 A step-by-step approach to disclosing artifacts for (double-blind) peer review and make it open data upon acceptance is available at: [https://ineed.coffee/5205/how-to-disclose-data-for-double-blind-review-and-make-it-archived-open-data-upon-acceptance/](https://ineed.coffee/5205/how-to-disclose-data-for-double-blind-review-and-make-it-archived-open-data-upon-acceptance/).
@@ -91,7 +91,7 @@ A comprehensive FAQ for open access and self-archiving is available at [https://
 
 #### Support
 
-In case of questions, please approach the Open Science Chair [CHAIR_NAME] via e-mail ([CHAIR_EMAIL]) at any time. 
+In case of questions, please approach the Open Science Chair [CHAIR_NAME] via e-mail ([CHAIR_EMAIL]) at any time.
 
 Contacting the open science chair does not violate the double-blind of submissions.
 
@@ -103,13 +103,13 @@ Contacting the open science chair does not violate the double-blind of submissio
 
 [VENUE_NAME] has adopted an open science stance and introduced guidelines for authors (available at [POLICIES_URL]). The policies invite authors to provide all research artifacts for peer review, self-archive their pre- and post-prints, and archive artifacts as open data upon acceptance. We kindly ask you to pay attention to the following, while reviewing:
 
-1. All open science steps are optional for authors and reviewers. 
+1. All open science steps are optional for authors and reviewers.
 You are invited, but not required, to inspect the provided artifacts as part of your review efforts.
 2. All reasons for partial disclosure of data (or lack thereof) should be trusted.
-3. Submissions have to undergo the same review process independent of whether or not they disclose their analysis code or data. 
+3. Submissions have to undergo the same review process independent of whether they disclose their analysis code or data.
 You are invited to complain in your review of any absence of data, but please do not let it influence your review of submissions. You are free to welcome further disclosure of data and help authors in doing so, with your review.
 4. Open science is challenging for qualitative studies. Please be welcoming of qualitative studies which open their artifacts even in a limited way. Furthermore, when evaluating artifacts from qualitative studies that was made available for peer review, please keep in mind that authors of qualitative studies might have underlying ontological and epistemological stances that differ from those of authors of quantitative studies. Concepts such as replicability and reproducibility might apply partially or not apply at all with qualitative studies.
-5. Providing research artifacts might introduce issues with double-blind reviews. 
+5. Providing research artifacts might introduce issues with double-blind reviews.
 We ask you not to actively hunt the identity of authors, especially in case they self-archived a preprint of their submission.
 
 [/INSTRUCTIONS_REVIEWERS]

@@ -28,15 +28,15 @@ Please replace the following variables in the text:
 
 ## Open science policies
 
-Openness in science is key to fostering progress via transparency, reproducibility, and replicability. Open science builds the core for excellence in evidence-based research.
+Openness in science is key to fostering progress via transparency and availability of all outputs produced at each investigative steps. Transparency and availability of research outputs allow better reproducibility, replicability of quantitative studies and recoverability of qualitative studies. Open science builds the core for excellence in evidence-based research.
 
 As an internationally renowned forum for researchers, practitioners, and educators to present and discuss the most recent innovations, trends, experiences, and challenges in the field of [VENUE_FIELD], [VENUE_NAME] has decided to actively support setting standards for how we conduct this kind of research.
 
-To this end, we have explicitly committed ourselves to foster openness to our research outcomes. In particular, we support the adoption of open data and open source principles. We encourage all contributing authors to disclose the (anonymized and curated) data to increase reproducibility and replicability of the studies.
+To this end, we have explicitly committed ourselves to foster openness to our research outcomes. In particular, we support the adoption of open data and open source principles. We encourage all contributing authors to disclose the (anonymized and curated) data to increase reproducibility, replicability, and/or recoverability of the studies.
 
 #### Principles
 
-Research output should be publicly accessible and reproducible.
+Research output should be publicly and freely accessible by anyone, permanently.
 
 Artifacts related to a study (which include, but are not limited to, raw and transformed data, extended proofs, appendices, analysis scripts, software, virtual machines and containers, and qualitative codebooks) and the paper itself should, in principle, be made available on the Internet:
 
@@ -65,7 +65,7 @@ We ask authors to provide a supporting statement on the data availability (or la
 
 Authors who cannot disclose data for the reasons stated in the principles of the policies should provide a short statement in their submitted papers in a section named _Data Availability_ after the _Conclusion_ section.
 
-- Please note that the success of the open science initiative depends on the willingness (and possibilities) of authors to disclose their data and that all submissions will undergo the same review process independent of whether or not they disclose their analysis code or data.
+Please note that the success of the open science initiative depends on the willingness (and possibilities) of authors to disclose their data and that all submissions will undergo the same review process independent of whether or not they disclose their analysis code or data.
 
 ###### HOWTOs
 A step-by-step approach to disclosing artifacts for (double-blind) peer review and make it open data upon acceptance is available at: [https://ineed.coffee/5205/how-to-disclose-data-for-double-blind-review-and-make-it-archived-open-data-upon-acceptance/](https://ineed.coffee/5205/how-to-disclose-data-for-double-blind-review-and-make-it-archived-open-data-upon-acceptance/).

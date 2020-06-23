@@ -105,9 +105,11 @@ Contacting the open science chair does not violate the double-blind of submissio
 
 1. All open science steps are optional for authors and reviewers. 
 You are invited, but not required, to inspect the provided artifacts as part of your review efforts.
-2. Submissions have to undergo the same review process independent of whether or not they disclose their analysis code or data. 
-You are invited to complain in your review of any absence of data, but please do not let it influence your review of submissions.
-3. Providing research artifacts might introduce issues with double-blind reviews. 
+2. All reasons for partial disclosure of data (or lack thereof) should be trusted.
+3. Submissions have to undergo the same review process independent of whether or not they disclose their analysis code or data. 
+You are invited to complain in your review of any absence of data, but please do not let it influence your review of submissions. You are free to welcome further disclosure of data and help authors in doing so, with your review.
+4. Open science is challenging for qualitative studies. Please be welcoming of qualitative studies which open their artifacts even in a limited way. Furthermore, when evaluating artifacts from qualitative studies that was made available for peer review, please keep in mind that authors of qualitative studies might have underlying ontological and epistemological stances that differ from those of authors of quantitative studies. Concepts such as replicability and reproducibility might apply partially or not apply at all with qualitative studies.
+5. Providing research artifacts might introduce issues with double-blind reviews. 
 We ask you not to actively hunt the identity of authors, especially in case they self-archived a preprint of their submission.
 
 [/INSTRUCTIONS_REVIEWERS]

@@ -4,8 +4,6 @@
 
 The present document constitutes a blueprint for generating open science policies and instructions for reviewers for research venues. We developed the policies over time for academic conferences of the software engineering community under the ACM [SIGSOFT](https://sigsoft.org) open science initiative. The policies should also work for software engineering journals and all computer science disciplines.
 
-The rationale and background for the content of the policies are available here: [https://ineed.coffee/5836/effectiveness-of-open-science-policies-at-esec-fse-2019/](https://ineed.coffee/5836/effectiveness-of-open-science-policies-at-esec-fse-2019/).
-
 #### Instructions
 
 We recommend each venue to have a role for open science (e.g., the open science chair or a program committee chair) to be responsible for the policies. The responsible person should act as a bridge between persons with editorial roles (e.g., program committee chairs, associate editors) and authors of papers. The responsible person should take care of uploading the policies to the venue website and network with the venue organization for the useful application of the policies. Examples include: ensure proper visibility of the policies in Call for Papers; collaborate with research track chairs and artifact evaluation chairs to maximize openness and avoiding reinventing the wheel; ensure that program committee members are informed about the policies; answer questions of authors and reviewers.
@@ -118,9 +116,8 @@ We ask you not to actively hunt the identity of authors, especially in case they
 
 An always updated version of the open science policies is available at:
 
-- [**Live**; HTML] at [https://ineed.coffee/open-science-policies](https://ineed.coffee/open-science-policies).
 - [**Contribution, Feedback**; Markdown, PDF] at [https://github.com/acmsigsoft/open-science-policies](https://github.com/acmsigsoft/open-science-policies).
-- [**Archived**; Markdown, PDF] TBD.
+- [**Archived**; Markdown, PDF] identified with the DOI [10.5281/zenodo.10532792](https://doi.org/10.5281/zenodo.10532792).
 
 ## License
 

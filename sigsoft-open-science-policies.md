@@ -66,7 +66,7 @@ Authors who cannot disclose data for the reasons stated in the principles of the
 Please note that the success of the open science initiative depends on the willingness (and possibilities) of authors to disclose their data and that all submissions will undergo the same review process independent of whether they disclose their analysis code or data.
 
 ###### HOWTOs
-A step-by-step approach to disclosing artifacts for (double-blind) peer review and make it open data upon acceptance is available at: [https://ineed.coffee/5205/how-to-disclose-data-for-double-blind-review-and-make-it-archived-open-data-upon-acceptance/](https://ineed.coffee/5205/how-to-disclose-data-for-double-blind-review-and-make-it-archived-open-data-upon-acceptance/).
+A step-by-step approach to disclosing artifacts for (double-blind) peer review and make it open data upon acceptance is available at: [https://github.com/dgraziotin/disclose-data-dbr-first-then-opendata](https://github.com/dgraziotin/disclose-data-dbr-first-then-opendata).
 
 A step-by-step approach to automatically archive a GitHub repository to Zenodo.org is available at [https://guides.github.com/activities/citable-code/](https://guides.github.com/activities/citable-code/).
 
@@ -74,7 +74,7 @@ A step-by-step approach to automatically archive a GitHub repository to figshare
 
 A proposal for artifact evaluation by SIGSOFT is available at [https://github.com/acmsigsoft/artifact-evaluation](https://github.com/acmsigsoft/artifact-evaluation).
 
-A proposal for open science in software engineering, including explanations for structuring an open artifact, is available at [https://arxiv.org/abs/1904.06499](https://arxiv.org/abs/1904.06499).
+A proposal for open science in software engineering, including explanations for structuring an open artifact, is available at [https://doi.org/10.1007/978-3-030-32489-6_17](https://doi.org/10.1007/978-3-030-32489-6_17).
 
 #### Open Access
 We encourage [VENUE_NAME] authors to self-archive their pre- and post-prints in open and preserved repositories. Self-archiving is legal and allowed by most publishers (granted in the copyright transfer agreement), and it will enable anybody in the world to reach papers barrier-free.
@@ -121,4 +121,4 @@ An always updated version of the open science policies is available at:
 
 ## License
 
-[Open science policies](https://ineed.coffee/open-science-policies) by [Daniel Graziotin](https://ineed.coffee) is licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+[Open science policies](https://github.com/acmsigsoft/open-science-policies) by [Daniel Graziotin](https://ineed.coffee) is licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
